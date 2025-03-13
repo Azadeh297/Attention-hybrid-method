@@ -6,7 +6,7 @@ you can see the paper [HERE](https://jecei.sru.ac.ir/article_2303_af3def78c9c37b
 ![THe proposed method](https://i.postimg.cc/FHL2xFTH/111.png)
 
 
-@article{YourPaperKey,  
+@article{  
   author    = {A. Beiranvand, M. Sarhadi, J. Salimi Sartakhti},  
   title     = {“Hybrid fine-tuning of large language models using lora: enhancing multi-task text classification through knowledge sharing},  
   journal   = {J. Electr. Comput. Eng. Innovations},  
